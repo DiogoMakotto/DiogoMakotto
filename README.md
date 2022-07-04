@@ -13,6 +13,7 @@ I started working formally with development in 2021, but I was always curious an
  ## 💻 Skills
  
 <div align="center" style="display: inline_block">
+    <img align="center" alt="Makotto-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
     <img align="center" alt="Makotto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Makotto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Makotto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg">
@@ -21,7 +22,7 @@ I started working formally with development in 2021, but I was always curious an
   <img align="center" alt="Makotto-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg">
    <img align="center" alt="Makotto-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Makotto-Salesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"> 
-  <img align="center" alt="Makotto-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
+  
 </div>
 
 ## 🧭 Socials
