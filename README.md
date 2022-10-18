@@ -6,7 +6,6 @@ I started working formally with development in 2021, but I was always curious an
 
 * 🌎 Based in São Paulo, Brazil
 * 📧 You can contact me at [diogomakotto@gmail.com](mailto:diogomakotto@gmail.com)
-* 🔨 I'm now open to job opportunities
 * ☕ I love sports, coffee and games and my favorite is Bodybuilding 🏋️‍♀️
 
 
